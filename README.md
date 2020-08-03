@@ -27,3 +27,5 @@ In my software development practice, I stick to the following principles:
 3) Avoid cargo culting and make informed decisions in every particular case
 4) Don't be afraid of complex things with steep learning curves
 5) Always keep your web apps small and performant
+
+Have any ideas or questions? Reach out to me on [LinkedIn](https://www.linkedin.com/in/dmitry-novozhilov/)
