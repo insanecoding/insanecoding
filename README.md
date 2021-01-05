@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Senior Frontend Developer at Omio travel booking platform (ex. GoEuro). I have 6+ years of experience and a Master's degree in Cyber Security. I mostly specialize in Javascript/Typescript, React stack (React, Redux, Redux-Saga, Webpack, Babel, Jest, PostCSS) and Svelte but always open to trying something new. I have a passion for cutting-edge frontend technologies as well as functional programming.
 
 Apart from building beautiful and performant web apps, I really enjoy configuring complex frontend tools. If it is configurable, I'll do it! 
-The bundlers are my passion. So far tried Webpack (including the v5), Rollup, Parcel, Microbundle and Snowpack.
+The bundlers are my passion. So far tried Webpack (including v5), Rollup, Parcel, Microbundle and Snowpack.
 Writing configs is not a one-off for me. I don't stop investigating. It's always a joy to find a new plugin and cut off some more kilobytes from the resulting bundle.
 
 In my software development practice, I stick to the following principles:
