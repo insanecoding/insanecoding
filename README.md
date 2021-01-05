@@ -29,3 +29,5 @@ In my software development practice, I stick to the following principles:
 5) Always keep your web apps small and performant
 
 Have any ideas or questions? Reach out to me on [LinkedIn](https://www.linkedin.com/in/dmitry-novozhilov/)
+
+Also, don't hesitate to check my [Twitter](https://twitter.com/insanecoding) where I write about technologies.
