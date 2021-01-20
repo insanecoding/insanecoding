@@ -21,6 +21,8 @@ Apart from building beautiful and performant web apps, I really enjoy configurin
 The bundlers are my passion. So far tried Webpack (including v5), Rollup, Parcel, Microbundle and Snowpack.
 Writing configs is not a one-off for me. I don't stop investigating. It's always a joy to find a new plugin and cut off some more kilobytes from the resulting bundle.
 
+I try to give back to the community. I reported issues in use-async-resource, size-limit and react router. I made PRs to several webpack plugins (html-webpack-banner-plugin and inline-manifest-webpack-plugin). I want to be even more active in future.
+
 In my software development practice, I stick to the following principles:
 1) Don't simply close the tasks, try to understand the big picture behind them
 2) Pick the right tool for the job
