@@ -30,6 +30,6 @@ In my software development practice, I stick to the following principles:
 4) Don't be afraid of complex things with steep learning curves
 5) Always keep your web apps small and performant
 
-Have any ideas or questions? Reach out to me on [LinkedIn](https://www.linkedin.com/in/dmitry-novozhilov/)
+Have any ideas or questions? Reach out to me on [LinkedIn](https://www.linkedin.com/in/dmitrii-novozhilov/)
 
 Also, don't hesitate to check my [Twitter](https://twitter.com/insanecoding) where I write about technologies.
