@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Senior Frontend Developer at Prose which is a custom hair care startup. I have 9+ years of experience and a Master's degree in Cyber Security. I mainly specialize in Javascript/Typescript and React stack (React with or without hooks, Redux, Next.js, Webpack, Babel, Jest, PostCSS). But I like Svelte, too. I'm always open to trying something new. I have a passion for cutting-edge frontend technologies as well as functional programming. 
+I'm a Senior Frontend Developer at Prose which is a custom hair care startup. I have 11+ years of experience and a Master's degree in Cyber Security. I mainly specialize in Javascript/Typescript and React stack (React with or without hooks, Redux, Next.js, Webpack, Babel, Jest, PostCSS). But I like Svelte, too. I'm always open to trying something new. I have a passion for cutting-edge frontend technologies as well as functional programming. 
 
 I'm a big fan of Graphql. I invested a lot into learning all the ins and outs of the Apollo Client. Then, I successfully refactored the data layer of the existing user management app. I improved the code structure, upgraded Apollo to the next major version, and used its advanced features (local states, Apollo links, REST API integration, type generation from the Graphql schema).
 
