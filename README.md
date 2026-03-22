@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-I'm a Senior Frontend Developer at Prose, which is a custom beauty startup. I have 12 years of experience and a Master's degree in Cybersecurity. I mainly specialize in JavaScript/TypeScript and the React stack (Redux, Next.js, Webpack). But I'm always open to trying something new. For example, I had to learn Svelte in two weeks to deliver a project, and I enjoyed it.
+I'm a Senior Frontend Engineer at Prose, which is a Franco-American personalized beauty scale-up. I have 12 years of experience and a Master's degree in Cybersecurity. I mainly specialize in JavaScript/TypeScript and the React stack (Redux, Next.js, Webpack). But I'm always open to trying something new. For example, I had to learn Svelte in two weeks to deliver a project, and I enjoyed it.
 
 I'm not afraid of complex and seemingly messy things. I wrote plugins for Webpack/PostCSS/Semantic-Release when the existing solutions didn't match our needs, and it wasn't so difficult at the end 🤭
 
